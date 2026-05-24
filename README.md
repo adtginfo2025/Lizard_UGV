@@ -7,7 +7,7 @@
 
 ## 📖 Introduction
 
-Compact UGV with perforated deck for field research, patrol, exploration, filming, and DIY fun. 80 km/h, 20 kg payload, 4G control, Android app. Plug-and-play modules for sensors, cameras, tools, and more. Available in Tactical and Civilian versions.
+Compact UGV with perforated deck for field research, patrol, exploration, filming, and DIY fun. 80 km/h, 20 kg payload, BVLOS control with support for multiple frequency bands, with app on phone. Plug-and-play modules for sensors, cameras, tools, and more. Available in Tactical and Civilian versions.
 
 ## ✨ Key Features
 
@@ -32,7 +32,7 @@ Compact UGV with perforated deck for field research, patrol, exploration, filmin
 | Max Speed (full load) | 30 km/h                                          |
 | Max Range (unloaded)  | 60 km                                            |
 | Max Range (full load) | 30 km                                            |
-| Communication Mode    | 4G (user‑provided SIM card)                      |
+| Communication Mode    | Remote beyond-visual-line-of-sight (BVLOS) control with support for multiple frequency bands|
 | Battery System        | 21700 Li‑ion cells; 2 × 4S2P or 2 × 3S2P (Standard Version) |
 | Battery Connector     | XT60 female (batteries not included)             |
 | Motor                 | 650kV sensored brushless motor                   |
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/8f381f32-a7bc-4775-b820-f4c94b61fcb2
 
 ## 🤝 Partnership Opportunities
 
-We are actively seeking a wide range of partnerships, including but not limited to research institutions, defense contractors, robotics integrators, filming studios, and DIY communities. Whether you are interested in customizing the platform for a specific application, co-developing new modules, or deploying the LIZARD MK-2 in real-world scenarios, we welcome you to reach out. For collaboration inquiries, please contact us.
+We are actively seeking a wide range of partnerships, including but not limited to research institutions, defense contractors, robotics integrators, filming studios, and DIY communities. Whether you are interested in customizing the platform for a specific application, co-developing new modules, or deploying the LIZARD MK-2 in real-world scenarios, we welcome you to reach out. For collaboration inquiries, please contact us at: **dr.andre@adtg.asia**
 
 ## 🚁 Extended Offering: Long-Endurance UAV – Tactical & Civilian
 
