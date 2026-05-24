@@ -5,25 +5,22 @@
 
 ## 📖 Introduction
 
-The LIZARD MK-2 is an advanced small multi-purpose unmanned ground vehicle developed by Astute Defense Technology Group. Designed for complex urban environments and high-risk field operations, it offers robust mobility, high payload capacity, and flexible remote control capabilities. This repository provides technical documentation, control interface references, and secondary development examples for researchers and developers.
-
-> ⚠️ **Note**: This project is for technical demonstration and educational purposes. Users must comply with all applicable local laws and regulations.
+Compact UGV with perforated deck for field research, patrol, exploration, filming, and DIY fun. 80 km/h, 20 kg payload, 4G control, Android app. Plug-and-play modules for sensors, cameras, tools, and more. Available in Tactical and Civilian versions.
 
 ## ✨ Key Features
 
-- **Compact & Agile**: 760×510×320 mm dimensions, weight ≤15 kg (without battery) – suitable for confined spaces.
-- **High Payload & Towing**: 20 kg payload, 100 kg towing capacity.
-- **Powerful Drive**: 650kV sensored brushless motor; max speed 80 km/h (unloaded) / 30 km/h (fully loaded).
-- **Long Range**: 60 km max range (unloaded) / 30 km (full load).
-- **Smart Control**: Intuitive Android app for remote operation and real-time video feedback.
-- **4G Communication**: Built‑in 4G module enables long-distance control.
-- **Multi‑channel Expansion**: 8 physical channels supporting cruise control and auxiliary switches.
+- **Tactical Version** – Urban operations, anti-armor defense, reconnaissance, high-risk field interventions, and frontline security.
+- **Civilian Version** – Field research, light-duty patrol, outdoor exploration, professional filming, and customizable DIY entertainment.
+- 80 km/h top speed (unloaded) / 30 km/h (full load)
+- 20 kg payload + 100 kg towing capacity
+- 4G remote control with intuitive Android app
+- Plug-and-play modular support: sensors, cameras, lighting, environmental monitors, tool carriers, and functional extensions (Civilian version).
 
 ## 📊 Technical Specifications
 
 | Parameter             | Specification                                    |
 |-----------------------|--------------------------------------------------|
-| Vehicle Type          | Small multi-purpose unmanned frontline vehicle  |
+| Vehicle Type          | Small multi-purpose unmanned ground vehicle      |
 | Dimensions            | 760 mm × 510 mm × 320 mm                         |
 | Weight (without battery) | ≤15 kg                                         |
 | Payload Capacity      | 20 kg                                            |
@@ -37,18 +34,39 @@ The LIZARD MK-2 is an advanced small multi-purpose unmanned ground vehicle devel
 | Battery System        | 21700 Li‑ion cells; 2 × 4S2P or 2 × 3S2P (Standard Version) |
 | Battery Connector     | XT60 female (batteries not included)             |
 | Motor                 | 650kV sensored brushless motor                   |
-| Application Scenarios | Urban assault, anti‑armor, reconnaissance, inspection |
-
-## 📸 Media Gallery
-
-### Images
-
-| Front View | Side View | Rear View |
-|------------|-----------|-----------|
-| ![Front](images/front.jpg) | ![Side](images/side.jpg) | ![Rear](images/rear.jpg) |
+| **Application Scenarios** |                                              |
+| - Tactical Version    | Urban operations, anti-armor defense, reconnaissance, high-risk field interventions, frontline security |
+| - Civilian Version    | Field research, light patrol, outdoor exploration, professional filming, DIY fun, environmental monitoring |
 
 ### Video Demo
 
-*Click the image above to watch the demonstration video. (Replace with your actual video link)*
+<video src="videos/demo.mp4" controls width="600"></video>
 
-> You can also download the video file: [demo.mp4](videos/demo.mp4)
+*Click play to watch the demonstration video. (Ensure `videos/demo.mp4` exists in your repository)*
+
+## 🤝 Partnership Opportunities
+
+We are actively seeking a wide range of partnerships, including but not limited to research institutions, defense contractors, robotics integrators, filming studios, and DIY communities. Whether you are interested in customizing the platform for a specific application, co-developing new modules, or deploying the LIZARD MK-2 in real-world scenarios, we welcome you to reach out. For collaboration inquiries, please contact us.
+
+## 🚁 Extended Offering: Long-Endurance UAV – Tactical & Civilian
+
+Beyond the LIZARD MK-2 UGV, we develop high-performance long-endurance unmanned aerial vehicles (UAVs) in both **Tactical** and **Civilian** variants. Our Tactical UAVs are designed for defense, surveillance, reconnaissance, and border security missions, featuring encrypted data links, jamming resistance, and extended BVLOS capability. The Civilian versions excel in mapping, agriculture, search & rescue, infrastructure inspection, and professional aerial filming.
+
+Whether you need a rugged military-grade drone or a versatile commercial platform – or an integrated air‑ground solution – we have the expertise to support your mission.
+
+## 📅 Upcoming Event – Japan Drone 2026
+
+We will be visiting **Japan Drone 2026** in Tokyo from **June 3–5, 2026**. If you are attending the show and would like to explore potential collaboration face-to-face, please reach out in advance to schedule a meeting. Let's discuss how our UGV, UAV (tactical or civilian), or combined robotics systems can benefit your projects.
+
+
+## 🏢 About Us
+
+**ADTG Group**
+
+Our group comprises:
+
+- **Sino-Europa Industrial Science Research Institute**
+- **Nanjing Guxuan Technology Co., Ltd.**
+- **Astute Agri Systems, Inc.**
+
+Together, we integrate research, development, and manufacturing capabilities to deliver advanced unmanned systems for global partners.
