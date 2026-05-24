@@ -1,3 +1,5 @@
+
+
 # 🐊 LIZARD MK-2 Unmanned Ground Vehicle (UGV)
 
 ![LIZARD MK-2 Main Image](images/main.png)
@@ -39,6 +41,10 @@ Compact UGV with perforated deck for field research, patrol, exploration, filmin
 | - Civilian Version    | Field research, light patrol, outdoor exploration, professional filming, DIY fun, environmental monitoring |
 
 ### Video Demo
+
+<p align="center">
+  <video src="demo/demo.mp4" width="80%" controls></video>
+</p>
 
 <video src="demo/demo.mp4" controls width="600"></video>
 
