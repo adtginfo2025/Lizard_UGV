@@ -42,7 +42,7 @@ Compact UGV with perforated deck for field research, patrol, exploration, filmin
 
 ### Video Demo
 
-[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/demo/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/demo/demo.mp4)
+[![Watch the video](https://github.com/adtginfo2025/Lizard_UGV/blob/main/demo/thumbnail.jpg)](https://github.com/adtginfo2025/Lizard_UGV/blob/main/demo/demo.mp4)
 
 <video src="demo/demo.mp4" controls width="600"></video>
 
