@@ -1,6 +1,6 @@
 # 🐊 LIZARD MK-2 Unmanned Ground Vehicle (UGV)
 
-![LIZARD MK-2 Main Image](images/main.jpg)
+![LIZARD MK-2 Main Image](images/main.png)
 *Figure: LIZARD MK-2 Small Multi-purpose Unmanned Ground Vehicle*
 
 ## 📖 Introduction
